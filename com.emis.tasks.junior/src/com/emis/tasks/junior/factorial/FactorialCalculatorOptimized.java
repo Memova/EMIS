@@ -3,7 +3,7 @@ package com.emis.tasks.junior.factoriel;
 import java.util.HashMap;
 import java.util.Map;
 
-public class FactorialCalclulatorOptimized {
+public class FactorialCalculatorOptimized {
 	private static Map<Integer, Long> foundedFactorials = new HashMap<Integer, Long>();
 
 	public static void main(String[] args) {
